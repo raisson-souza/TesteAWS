@@ -1,0 +1,9 @@
+{
+    "database_config": {
+        "user": "postgres",
+        "host": "0.tcp.sa.ngrok.io",
+        "database": "postgres",
+        "password": "20042223",
+        "port": 13592
+    }
+}
